@@ -1,5 +1,7 @@
 # thunar-docker
 
+This is a fork to learn about docker
+
 A repository for creating a docker container including Thunar with GUI interface.
 
 [![](https://images.microbadger.com/badges/version/shokinn/docker-thunar.svg)](https://microbadger.com/images/shokinn/docker-thunar "Docker image version")
